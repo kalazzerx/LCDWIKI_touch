@@ -6,9 +6,9 @@
 //7796S-3.95 for product 855, -13, 1270, -26
 
 
-#define XFAC      852 //663 
-#define XOFFSET   (-14) //(-13) 
-#define YFAC      1284 //894 
-#define YOFFSET   (-30) 
+#define XFAC      855 //852 
+#define XOFFSET   (-13) //(-14) 
+#define YFAC      1270 //1284 
+#define YOFFSET   (-26) //30
 
 #endif
